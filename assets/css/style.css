@@ -1,0 +1,251 @@
+.landing
+{
+	background: url("https://placeimg.com/1500/750/any") no-repeat center center fixed;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+	height: 720px;
+	max-height: 720px;
+	position: relative;
+}
+
+.landing-text, .work-text
+{
+	text-align:center;
+	margin-top: 50px; 
+}
+
+
+.ladning-text-body , .ladning-text-head
+{
+	display: inline-block;
+	color: white;
+}
+
+
+.ladning-text-head
+{
+	font-size: 30pt;
+}
+
+.ladning-text-body
+{
+	font-size: 60pt;
+	width: 600px;
+}
+
+.landing-button
+{
+	width: 200px;
+	background: transparent;
+	border:none;
+    border:solid 2px white;
+    text-transform: uppercase;
+    color: white;
+}
+
+.short-line
+{
+	color: white;
+	width: 200px;
+	margin: 40px auto 40px auto;
+	background-color: white;
+	height: 2px
+}
+
+.menu-items  li:hover,
+.menu-items  li.active,
+.menu-items  li.active a,
+.menu-items  li:hover a
+{
+	background: none;
+	border-bottom: 2px solid #f5f2b4;
+	color: #f5f2b4 ;
+}
+
+
+
+.progress-row
+{
+	margin-top: 100px;
+	text-align:center;
+}
+
+.progress
+{
+	height: 2px;
+	margin: 10px 10px;
+	color: white;
+}
+
+.progress-label
+{
+	font-weight: bold;
+	color: white;
+}
+
+.work
+{
+	background: white;
+	background-color: white;
+}
+
+.work-text-body , .work-text-head, .work-text-paragraph
+{
+	display: inline-block;
+	color: black;
+}
+
+.work-text-head
+{
+	font-size: 15pt;
+	font-weight: bold;
+	margin-bottom: 15px; 
+}
+
+.work-text-body
+{
+	font-size: 20pt;
+	width: 600px;
+}
+
+.work-text-paragraph
+{
+	font-size: 10pt;
+	width: 800px;
+}
+.card-row
+{
+	width: 100%;
+	padding: 10px 200px;
+	margin-top: 80px;
+	margin-bottom: 80px;
+}
+
+.counter-row
+{
+	width: 100%;
+	padding: 0px;
+	margin: 0px;
+	background: #4fda97;
+	background-color: #4fda97;
+
+}
+
+.counter-span
+{
+	float: left;
+  	clear: left;
+	color: white;
+	width: 100%;
+	text-align: center;
+}
+.counter-span-number
+{
+	margin-top: 30px;
+	font-size: 50pt;
+	font-weight: bold;
+}
+
+.counter-span-text
+{
+	margin-top: 5px;
+	margin-bottom: 30px;
+	font-size: 20pt;
+	font-weight: bold;
+
+}
+
+.card
+{
+	float: left;
+  	clear: left;
+	color: black;
+	width: 100%;
+	text-align: left;
+	margin: 3px;
+}
+.card-head
+{
+	font-size: 10pt;
+	font-weight: bold;
+}
+
+.card-body
+{
+	font-size: 7pt;
+}
+
+.fa-television
+{
+	color: #4fda97;
+}
+
+.card-row-service
+{
+	margin-top: 5px;
+	margin-bottom: 15px;
+}
+
+.image-container
+{
+	margin-top:30px;
+	margin-bottom:30px;
+}
+
+.img-div
+{
+	margin: 0px;
+	padding: 0px;
+	height: 480px;
+}
+.img{
+	height: 100%;
+	width: 100%;
+}
+.img-half
+{
+	height: 50%;
+	float: left;
+  	clear: left;
+}
+
+.map-row
+{
+	width: 100%;
+	padding: 0px;
+	margin: 0px;
+	background: silver;
+	background-color: silver;
+	text-align: center;
+}
+
+.blog-row
+{
+	margin-top: 80px;
+	margin-bottom: 80px;
+}
+
+.map-col
+{
+	float: none;
+	display: inline-block;
+}
+
+.map-line
+{
+	width: 100%;
+	color: red;
+	margin-top: 20px;
+	border-top: none;
+}
+.map-text
+{
+	display: inline-block;
+}
+
+footer
+{
+	text-align: center;
+}
